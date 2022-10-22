@@ -16,5 +16,3 @@
 5. Luedy Miná
 6. Luelton
 7. Paulo
-
-### Estatuto
