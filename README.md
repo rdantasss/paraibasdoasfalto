@@ -16,3 +16,7 @@
 5. Luedy Miná
 6. Luelton Eric
 7. Paulo Pê
+
+## Estatuto
+
+[Estatuto Paraíbas do Asfalto](<https://github.com/rdantasss/paraibasdoasfalto/blob/main/estatuto.md>)
